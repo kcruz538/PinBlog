@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'simple_form'
+gem 'devise'
