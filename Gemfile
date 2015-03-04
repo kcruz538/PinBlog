@@ -45,3 +45,5 @@ gem 'devise'
 gem 'carrierwave'
 gem "mini_magick"
 gem "paperclip", "~> 4.2"
+gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.10.0'
